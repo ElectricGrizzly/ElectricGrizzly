@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on mastering my cybersecurity prowess using TryHackMe and HackTheBox, and becoming a game developer.
 - 🌱 I’m currently learning the Godot game engine (GDScript, C#), and pentration testing.
 - 💬 Ask me about your dependencies... especially Java. Also pretty good at Python, Kotlin, JavaScript, a dash of C/C++, and a sprinkling of Perl.
-- 🎮 My hobby is video games. Current PRC gamer, but have dabbled with all the consoles.
+- 🎮 My hobby is video games. Current PC gamer, but have dabbled with all the consoles.
 - ⚡ Fun fact: I have a degree in electrical engineering. Not sure how I ended up in cybersecurity and game development 🤷‍♂️, but I love it here!
 
 ---
