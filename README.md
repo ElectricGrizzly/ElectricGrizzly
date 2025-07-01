@@ -1,7 +1,7 @@
 ## About Me 👤
 
 - 💪 I'm currently challenging myself by trying to write *some* code every single day.
-- 🔭 I’m currently working on mastering my cybersecurity prowess using TryHackMe and HackTheBox, and becoming a game developer.
+- 🔭 I’m currently working on mastering my cybersecurity prowess using TryHackMe and HackTheBox. I am also dabbling in learning to becoming a game developer.
 - 🌱 I’m currently learning the Godot game engine (GDScript, C#), and pentration testing.
 - 💬 Ask me about your dependencies... especially Java. Also pretty good at Python, Kotlin, JavaScript, a dash of C/C++, and a sprinkling of Perl.
 - 🎮 My hobby is video games. Current PC gamer, but have dabbled with all the consoles.
